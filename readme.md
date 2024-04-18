@@ -1,7 +1,7 @@
 # 기본적인 git 사용법
 
-## github.com 로그인
-- 웹의 repository생성
+## repository 생성
+- github.com 로그인
 - 우측 상단 [+] 클릭- New repository 클릭
 ![image](https://github.com/nanheelee/exam/assets/126562076/68160c05-39cb-4478-a16e-8b698ad7232a)
 
@@ -9,6 +9,7 @@
 ![image](https://github.com/nanheelee/exam/assets/126562076/6da09f45-3daa-47a4-9fde-2d2ea93f7043)
 
 - 하단의 create repository 클릭
+![image](https://github.com/nanheelee/exam/assets/126562076/9b02a839-e699-43f7-be54-c42d739c876f)
 
 
 ## local 초기 사용자 셋팅
