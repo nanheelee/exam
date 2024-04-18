@@ -8,9 +8,9 @@
 git config --global user.name "홍길동"<br>
 git config --global user.email "sachory@gmail.com"<br>
 
-- 확인
-git config user.name
-git config user.email
+- 확인<br>
+git config user.name<br>
+git config user.email<br>
 
 ## git 시작
 git init
@@ -18,37 +18,37 @@ git init
 ## staging 시키기
 
 1) 파일 지정
-- 원하는 파일 지정
+- 원하는 파일 지정<br>
 git add 파일명1 파일명2 
 
-- 전체 파일 올리고 싶을때
+- 전체 파일 올리고 싶을때<br>
 git add .
 
-2) staging 올리기
+2) staging 올리기<br>
 git commit -m '버전이름'
 
 ### repository에 등록
-1) 내 git주소 변수로 등록
+1) 내 git주소 변수로 등록<br>
 
 git remote add origin https://github.com/nanheelee/exam.git
 
-2) 내 깃으로 업로드
-git push -u <깃주소/변수> main
-git push -u origin main
+2) 내 깃으로 업로드<br>
+git push -u <깃주소/변수> main<br>
+git push -u origin main<br><br>
 
 ex) git push -u https://github.com/nanheelee/exam.git main
 
 
 ### 결론
 
-<셋팅>
-git init
-git remote add origin https://github.com/nanheelee/exam.git
+<셋팅><br>
+git init<br>
+git remote add origin https://github.com/nanheelee/exam.git<br><br>
 
-<필요할 때마다>
-git add <파일명>
-git commit -m '버전이름'
-git push -u origin <브랜치이름>
+<필요할 때마다><br>
+git add <파일명><br>
+git commit -m '버전이름'<br>
+git push -u origin <브랜치이름><br>
 
 
 
