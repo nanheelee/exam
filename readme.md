@@ -75,4 +75,9 @@ git branch -M <변경할이름>
 4) 브랜치 변경 것
 git switch <브랜치이름>
 
+5) 브랜치 삭제
+git branch -D <브랜치이름>
 
+
+## git 내용 다운받기
+git clone <깃주소>
