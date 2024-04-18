@@ -51,7 +51,18 @@ git commit -m '버전이름'<br>
 git push -u origin <브랜치이름><br>
 
 
+## Branch 관련
 
-git branch -M main
+1) 브랜치 생성
+git checkout -b <브랜치이름>
+
+2) 브랜치 확인
+git branch
+
+3) 현재 브랜치 이름 바꾸기
+git branch -M <변경할이름>
+
+4) 브랜치 변경 것
+git switch <브랜치이름>
 
 
