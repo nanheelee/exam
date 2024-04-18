@@ -2,6 +2,9 @@
 
 ## github.com 로그인
 - 웹의 repository생성
+- 우측 상단 [+] 클릭- New repository 클릭
+![image](https://github.com/nanheelee/exam/assets/126562076/68160c05-39cb-4478-a16e-8b698ad7232a)
+
 
 ## local 초기 사용자 셋팅
 - 설정 <br>
