@@ -22,10 +22,10 @@ git config --global user.email "sachory@gmail.com"<br>
 git config user.name<br>
 git config user.email<br>
 
-### - git 시작
+### Git 시작
 git init
 
-### - staging 시키기
+### Staging 시키기
 
 1) 파일 지정
 - 원하는 파일 지정<br>
@@ -37,7 +37,7 @@ git add .
 2) staging 올리기<br>
 git commit -m '버전이름'
 
-### - repository에 등록
+### Repository에 업로드
 1) 내 git주소 변수로 등록<br>
 
 git remote add origin https://github.com/nanheelee/exam.git
@@ -49,13 +49,13 @@ git push -u origin main<br><br>
 ex) git push -u https://github.com/nanheelee/exam.git main
 
 
-### - 결론
+### 결론
 
-<셋팅><br>
+#### <셋팅><br>
 git init<br>
 git remote add origin https://github.com/nanheelee/exam.git<br><br>
 
-<필요할 때마다><br>
+#### <필요할 때마다><br>
 git add <파일명><br>
 git commit -m '버전이름'<br>
 git push -u origin <브랜치이름><br>
