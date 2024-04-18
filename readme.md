@@ -5,6 +5,11 @@
 - 우측 상단 [+] 클릭- New repository 클릭
 ![image](https://github.com/nanheelee/exam/assets/126562076/68160c05-39cb-4478-a16e-8b698ad7232a)
 
+- 저장소 이름 입력 / public 선택
+![image](https://github.com/nanheelee/exam/assets/126562076/6da09f45-3daa-47a4-9fde-2d2ea93f7043)
+
+- 하단의 create repository 클릭
+
 
 ## local 초기 사용자 셋팅
 - 설정 <br>
